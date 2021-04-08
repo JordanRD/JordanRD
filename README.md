@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png)
+![codewars](https://www.codewars.com/users/JordanRD/badges/small)
